@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rauldomnita/static/css/main.30de5be1.css",
-    "main.js": "/rauldomnita/static/js/main.6f50387f.js",
+    "main.js": "/rauldomnita/static/js/main.83780bec.js",
     "static/media/cv.pdf": "/rauldomnita/static/media/cv.5a71be5f84d6dc387552.pdf",
     "static/media/about.svg": "/rauldomnita/static/media/about.da3e2bbe44ab98912a90d617bb257f55.svg",
     "static/media/sass.svg": "/rauldomnita/static/media/sass.02dda4cb70eb34023b9a05eecd50e50e.svg",
@@ -20,10 +20,10 @@
     "static/media/html5.svg": "/rauldomnita/static/media/html5.84c6adac417775a66b5529f1ae8d4572.svg",
     "static/media/css.svg": "/rauldomnita/static/media/css.9882e252f3baf8b8d57642a1384d8ba3.svg",
     "main.30de5be1.css.map": "/rauldomnita/static/css/main.30de5be1.css.map",
-    "main.6f50387f.js.map": "/rauldomnita/static/js/main.6f50387f.js.map"
+    "main.83780bec.js.map": "/rauldomnita/static/js/main.83780bec.js.map"
   },
   "entrypoints": [
     "static/css/main.30de5be1.css",
-    "static/js/main.6f50387f.js"
+    "static/js/main.83780bec.js"
   ]
 }
