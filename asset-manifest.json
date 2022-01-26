@@ -1,9 +1,16 @@
 {
   "files": {
     "main.css": "/rauldomnita/static/css/main.30de5be1.css",
-    "main.js": "/rauldomnita/static/js/main.a96c541a.js",
+    "main.js": "/rauldomnita/static/js/main.8003d9d5.js",
+    "static/media/fakestore.webp": "/rauldomnita/static/media/fakestore.0cb48432b5ff734724e7.webp",
+    "static/media/cocktails.webp": "/rauldomnita/static/media/cocktails.78d20a13f751d28b1bf6.webp",
+    "static/media/space-tourismwebp.webp": "/rauldomnita/static/media/space-tourismwebp.03a2c046b5ce76dda11d.webp",
+    "static/media/sunny-side.webp": "/rauldomnita/static/media/sunny-side.8ec93e9cdc42f7783099.webp",
+    "static/media/countries.webp": "/rauldomnita/static/media/countries.cb7a6b1360e482aaba6e.webp",
     "static/media/cv.pdf": "/rauldomnita/static/media/cv.f9cbb32fb6a2ebac8afb.pdf",
+    "static/media/tictactoe.webp": "/rauldomnita/static/media/tictactoe.d411206520ff4bfb5ae5.webp",
     "static/media/about.svg": "/rauldomnita/static/media/about.da3e2bbe44ab98912a90d617bb257f55.svg",
+    "static/media/hangman.webp": "/rauldomnita/static/media/hangman.900a0e67662f2bec51eb.webp",
     "static/media/sass.svg": "/rauldomnita/static/media/sass.02dda4cb70eb34023b9a05eecd50e50e.svg",
     "static/media/react.svg": "/rauldomnita/static/media/react.fdd3331d261ad6d5e1c92448737aa2aa.svg",
     "static/media/close.svg": "/rauldomnita/static/media/close.65d84a9d33a59ff6dc800a90930bfb39.svg",
@@ -20,10 +27,10 @@
     "static/media/html5.svg": "/rauldomnita/static/media/html5.84c6adac417775a66b5529f1ae8d4572.svg",
     "static/media/css.svg": "/rauldomnita/static/media/css.9882e252f3baf8b8d57642a1384d8ba3.svg",
     "main.30de5be1.css.map": "/rauldomnita/static/css/main.30de5be1.css.map",
-    "main.a96c541a.js.map": "/rauldomnita/static/js/main.a96c541a.js.map"
+    "main.8003d9d5.js.map": "/rauldomnita/static/js/main.8003d9d5.js.map"
   },
   "entrypoints": [
     "static/css/main.30de5be1.css",
-    "static/js/main.a96c541a.js"
+    "static/js/main.8003d9d5.js"
   ]
 }
